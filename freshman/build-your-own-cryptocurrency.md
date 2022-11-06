@@ -156,5 +156,6 @@ To do so:
 - Click Add, and you will see your balance in Metamask!
 ![viewing-token](https://i.imgur.com/Wwxe0kg.png)
 
-![haslab-token]()
+![haslab-token](https://raw.githubusercontent.com/lutfi-haslab/learnweb3/main/freshman/haslab-token.png)
+
 Congratulations! You've successfully deployed and minted your own ERC20 token! Onwards and upwards from here!
