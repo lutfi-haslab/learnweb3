@@ -24,28 +24,23 @@ The backend refers to that part of a software that allows it to operate and cann
 On the web, frontend websites typically send requests over the internet through HTTP to a backend server, asking for certain data or asking it to perform a certain task, and the backend registers the request and sends a response back. For the purposes of this course, we will be developing our backends in Javascript as well, to be able to reuse code and share knowledge between the frontend and backend.
 
 🤔 What is a backend?
+> Receives requests from the clients and contains the logic to send the appropriate data back
 
-
-Interface with which an user interacts
-
-Receives requests from the clients and contains the logic to send the appropriate data back
 Required Readings:
 
 [What is a backend?](https://www.codecademy.com/article/back-end-architecture)
+
 [Building an API with Node.js and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+
 [Building an API connected to a database in Node.js](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
+
 🤔 What is an API?
+> Interface to communicate between different software components.
 
-
-Interface to save data in a persistent way to memory
-
-Interface to communicate between different software components.
 🤔 What is a database?
 
+>Interface to save data in a persistent way to memory
 
-Interface to save data in a persistent way to memory
-
-Interface to communicate between different software components.
 Before you move on to the actual web3 specific content, please ensure you have some familiarity with the following:
 
 HTML
