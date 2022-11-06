@@ -91,7 +91,8 @@ contract Variables {
     }
 }
 ```
-Functions, Loops and If/Else
+## Functions, Loops and If/Else
+```solidity
 // Define the compiler version you would be using
 pragma solidity ^0.8.10;
 
@@ -153,12 +154,13 @@ contract Conditions {
             }
         }
     }
-
-
 }
-Arrays, Strings
+```
+
+## Arrays, Strings
 Array can have a compile-time fixed size or a dynamic size.
 
+```solidity
 pragma solidity ^0.8.10;
 
 contract Array {
@@ -225,10 +227,11 @@ contract Array {
     }
 
  }
-References
-Solidity by Example
+```
+### References
+- Solidity by Example (https://solidity-by-example.org/)
 
-Resources for learning extra
-Cryptozombies
-Solidity by Example
-Solidity docs
+### Resources for learning extra
+- Cryptozombies (https://cryptozombies.io/)
+- Solidity by Example
+- Solidity docs (https://docs.soliditylang.org/en/v0.8.17/)
