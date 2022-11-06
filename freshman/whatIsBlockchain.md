@@ -92,13 +92,16 @@ To learn more about blockchains, we highly suggest the following resources:
 ### Must Watch
 
 [But how does bitcoin actually work? by 3Blue1Brown](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+
 [![IMAGE_ALT](https://img.youtube.com/vi/bBC-nXj3Ng4/0.jpg)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+
 [Blockchain Demo by Anders Brownworth](https://andersbrownworth.com/blockchain/)
 
 🤔 What is the term for when a blockchain splits?
 >Fork
 
-Recommended
+### Recommended
+
 [Secure Hash Algorithm](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
 
 [Byzantine General problem](https://river.com/learn/what-is-the-byzantine-generals-problem/)
